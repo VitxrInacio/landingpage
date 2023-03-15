@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    height: 100vh;
+    background-image: url(https://i.ibb.co/7RgW23q/background-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Emilys Candy', cursive;
+  }
+
+  
+  .hero {
+    text-align: center;
+    padding: 100px 0;
+  }
+  .hero p span {
+    color: #FFc700;
+  }
+
+  .hero h1 {
+    font-size: 64px;
+    margin-bottom: 30px;
+    color: #FFc700;
+  }
+  
+  .hero p {
+    font-size: 24px;
+    color: #FFFFFF;
+    opacity: 0.8
+  }
+  
+  .cta {
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  .cta a {
+    padding: 12px 32px;
+    font-weight: 700;
+    font-size: 24px;
+    color: #0f0f0f;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .cta h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .cta p {
+    font-size: 24px;
+    margin-bottom: 40px;
+    color: #FFFFFF;
+    opacity: 0.7;
+  }
+  
+  .cta a:hover {
+    background-color: #FFd700;
+
+  }
+  
+  .btn-primary {
+    background-color: #FFc700;
+  }
+
+  .cta a span {
+    color: #FFFFFF;
+    opacity: 0.8;
+  }
